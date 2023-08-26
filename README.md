@@ -1,2 +1,2 @@
 1.HTML/ Javascript
-2.Later on, we will use Nextjs / Reactjs
+Later on, we will use Nextjs / Reactjs
